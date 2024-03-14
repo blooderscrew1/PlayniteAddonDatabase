@@ -1,0 +1,18 @@
+AddonId: 'TrailersLovers'
+Type: ThemeFullscreen
+Name: 'TrailersLovers'
+Author: 'Blooderscrew'
+ShortDescription: A theme for people who love trailers .
+InstallerManifestUrl: https://github.com/blooderscrew1/TrailerLovers/blob/main/InstallerManifest.yaml
+SourceUrl: https://github.com/blooderscrew1/TrailerLovers
+Tags: ["Theme", "Modern",, "UI", "Clean", "Fast", "Console"]
+Links:
+    GitHub: https://github.com/blooderscrew1/TrailerLovers.git
+IconUrl: https://github.com/blooderscrew1/TrailerLovers/blob/main/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/blooderscrew1/TrailerLovers/blob/main/thumbnail01.png
+      Image: https://github.com/blooderscrew1/TrailerLovers/blob/main/screenshot01.png
+    - Thumbnail: https://github.com/blooderscrew1/TrailerLovers/blob/main/thumbnail02.png
+      Image: https://github.com/blooderscrew1/TrailerLovers/blob/main/screenshot02.png
+      Image: https://github.com/blooderscrew1/TrailerLovers/blob/main/screenshot03.png
+      Image: https://github.com/blooderscrew1/TrailerLovers/blob/main/screenshot04.png
